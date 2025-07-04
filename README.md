@@ -3,6 +3,12 @@
 This project demonstrates a simple blurry-to-clear image loading animation using HTML, CSS, and JavaScript.  
 Inspired by modern UX patterns where images load progressively for a smoother visual experience.
 
+## Live Demo
+> [Click here to view](file:///C:/Users/WELCOME/Music/index.html)
+
+## Preview
+Uses a placeholder image for demonstration. You can replace it with any image of your choice.
+
 ## Tech Stack
 - HTML5
 - CSS3 (Blur & Opacity Effects)
